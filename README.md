@@ -1,7 +1,7 @@
 ### Hi there || नमस्ते 
 
 # 💫 About Me:
-I am technology enthusiastic person, willing to learn about various fields and tech involved in it, currently exploring MERN Stack and React Native. .
+I am technology enthusiastic person, willing to learn about various fields and tech involved in it, currently exploring NextJS, MERN Stack and React Native.
 
 
 ## 🌐 Socials:
